@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm currently studying Computer Engineering at Bahçeşehir University. <br> I'm generally interested in back-end technologies. <br/> <br/>
-- 💬 You can contact with me via mail: <a href='emrebdr29@gmail.com' target="blank">edipemre.bodur@bahcesehir.edu.tr<a/>
+- 💬 You can contact with me via mail: <a href='emrebdr29@gmail.com' target="blank">emrebdr29@gmail.com<a/>
 <p/>
 
 <h3 align="center">Connect with me:</h3>
