@@ -10,7 +10,6 @@
 <a href="https://twitter.com/boduredip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boduredip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edip-emre-bodur-777578153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edip-emre-bodur-777578153" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15517250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15517250" height="30" width="40" /></a>
-<a href="https://instagram.com/edipemre6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edipemre6" height="30" width="40" /></a>
 <a href="https://medium.com/@emrebdr29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrebdr29" height="30" width="40" /></a>
 </p>
 
